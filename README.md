@@ -7,7 +7,7 @@ En este repositorio se agrupa la toda la documentación y avance del proyecto pa
 - Fuentes Matias
 
 ## Tutor
-- Fernando Dodino
+- Romero Federico
 
 ## Enlaces
 
